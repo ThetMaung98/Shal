@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128535788218",
+    "project_id": "shal-95234",
+    "storage_bucket": "shal-95234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128535788218:android:0271baa82acb0d3c73a083",
+        "android_client_info": {
+          "package_name": "com.example.shal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAdWNZ479i_tERRifAP0O85Xi1DR5EULk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
